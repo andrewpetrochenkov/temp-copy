@@ -1,0 +1,14 @@
+{
+  "name": "temp-copy",
+  "version": "2019.03.22",
+  "description": "create a temp copy of a file/directory",
+  "keywords": [
+    "temp",
+    "copy"
+  ],
+  "homepage": "https://github.com/looking-for-a-job/temp-copy",
+  "license": "Unlicense",
+  "bin": {
+    "temp-copy": "./scripts/temp-copy"
+  }
+}

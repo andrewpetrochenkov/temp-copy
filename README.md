@@ -1,7 +1,9 @@
 <!--
 https://pypi.org/project/readme-generator/
+https://pypi.org/project/python-readme-generator/
 -->
 
+[![](https://img.shields.io/badge/OS-Unix-blue.svg?longCache=True)]()
 [![](https://img.shields.io/pypi/v/temp-copy.svg?maxAge=3600)](https://pypi.org/project/temp-copy/)
 [![](https://img.shields.io/npm/v/temp-copy.svg?maxAge=3600)](https://www.npmjs.com/package/temp-copy)
 [![Travis](https://api.travis-ci.org/looking-for-a-job/temp-copy.svg?branch=master)](https://travis-ci.org/looking-for-a-job/temp-copy/)
@@ -14,7 +16,7 @@ $ [sudo] npm i -g temp-copy
 $ [sudo] pip install temp-copy
 ```
 
-#### CLI
+#### Scripts usage
 ```bash
 usage: temp-copy path
 ```
@@ -27,5 +29,5 @@ $ temp-copy .
 ```
 
 <p align="center">
-    <a href="https://pypi.org/project/readme-generator/">readme-generator</a>
+    <a href="https://pypi.org/project/python-readme-generator/">python-readme-generator</a>
 </p>
